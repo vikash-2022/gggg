@@ -1,4 +1,5 @@
 <?php
+
    include('data-con.php');
    error_reporting(1);
    ?>
@@ -10,7 +11,7 @@
       <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
       <link rel="icon" type="image/png" href="./assets/img/favicon.png">
       <title>
-         Add Department | HMS
+         Add Department | HMS hello
       </title>
       <!--     Fonts and icons     -->
       <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
